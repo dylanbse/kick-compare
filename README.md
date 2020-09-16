@@ -1,1 +1,1 @@
-# price-compare
+# kick-compare
